@@ -1,0 +1,5 @@
+.firsta{background-color: blue; width: 150px;}
+.seconda{background-color: black; border: 1px dashed;}
+.container{display: flex; justify-content: center; flex-direction: row-reverse;
+}
+p{color:white}
